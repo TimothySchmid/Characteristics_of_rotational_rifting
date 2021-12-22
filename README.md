@@ -2,6 +2,9 @@
 ## New findings from spatiotemporal high resolution quantified crustal scale analogue models
 ### (https://doi.org/10.1016/j.tecto.2021.229174)
 
+## 3D stereo DIC data from analogue models exploring fault growth and rift propagation in rotational rift systems
+### (https://doi.org/10.5880/fidgeo.2021.048)
+
 MATLAB scripts and functions for reproducing figures
 
 #### Content:
